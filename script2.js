@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var status = document.getElementById('status');
 
     // Replace with the email that should receive the data
-    var FORMSUBMIT_URL = 'https://formsubmit.co/ajax/sivaraovadduri@gmail.com';
+    var FORMSUBMIT_URL = 'https://formsubmit.co/ajax/sarabjeets19750@gmail.com';
 
     form.addEventListener('submit', function (e) {
         e.preventDefault();
